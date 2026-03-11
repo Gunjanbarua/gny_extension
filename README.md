@@ -25,7 +25,7 @@ with four sites (RH, BL, STP) spanning planting densities of 618, 1 236, and
 LiDAR point-cloud processing yielded per-tree crown metrics (crown area,
 stem volume proxies, stem-form attributes) and competition indices (CI)
 that serve as predictors.  The target variable is individual-tree
-merchantable volume in m³ (Honer's equation; Honer 1967, doi:10.1093/sjaf/21.3.146).
+volume in m³ (Tasisa et al, 1997, doi:10.1093/sjaf/21.3.146).
 
 ---
 
