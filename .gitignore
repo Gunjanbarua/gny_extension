@@ -1,0 +1,39 @@
+# Data – not shared
+data/
+!data/.gitkeep
+
+# Trained model artefacts
+models/
+!models/.gitkeep
+
+# Pipeline outputs
+results/
+!results/.gitkeep
+
+# Claude Code settings
+.claude/
+
+figures/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+.conda/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
